@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yoschi95](https://github.com/Yoschi95)
 
-- 📫 How to reach me **joscha.hartmann@web.de**
+- 📫 How to reach me **yoschi95@mail.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
